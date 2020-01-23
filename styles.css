@@ -62,15 +62,15 @@ h2{
 }
 footer{
     position: relative;
-    margin-top: 80px;
-    height: 250px;
+    background-color:yellow;
+    box-shadow: 2px 2px 5px black;
 }
-#contact{
-    display: flex;
-    flex-direction: row;
-}
-#contact>h3{
-    margin: 20px;
+#contacts{
+text-align: center;
+overflow: hidden;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
 }
 h3{
     font-size: 30px;
